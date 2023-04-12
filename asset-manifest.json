@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Roosun/carapp/static/css/main.0597ef04.css",
+    "main.js": "/Roosun/carapp/static/js/main.8bd4fd81.js",
+    "static/js/787.22ea9dd3.chunk.js": "/Roosun/carapp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/Roosun/carapp/index.html",
+    "main.0597ef04.css.map": "/Roosun/carapp/static/css/main.0597ef04.css.map",
+    "main.8bd4fd81.js.map": "/Roosun/carapp/static/js/main.8bd4fd81.js.map",
+    "787.22ea9dd3.chunk.js.map": "/Roosun/carapp/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.8bd4fd81.js"
+  ]
+}
